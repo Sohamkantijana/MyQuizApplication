@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyQuizApplication</string>
+    <string name="ready_to_for_the_quiz">Ready to for the Quiz</string>
 </resources>

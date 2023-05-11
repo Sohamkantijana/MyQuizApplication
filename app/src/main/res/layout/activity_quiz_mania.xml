@@ -14,7 +14,8 @@
         android:id="@+id/total_question"
         android:text="Login Page "
         android:layout_centerHorizontal="true"
-        android:textSize="20dp"/>
+        android:textSize="20dp"
+        tools:ignore="VisualLintOverlap" />
 
 
 
@@ -30,7 +31,7 @@
         android:layout_marginTop="20dp"
         android:layout_marginEnd="20dp"
         android:layout_marginBottom="20dp"
-        android:text="Ready to for the Quiz "
+        android:text="@string/ready_to_for_the_quiz"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="24dp"
@@ -74,7 +75,8 @@
         android:text="LETS go"
         android:layout_below="@id/choices_layout"
         android:textSize="23dp"
-        android:layout_marginTop="40dp"/>
+        android:layout_marginTop="40dp"
+        tools:ignore="VisualLintButtonSize" />
 
     <ImageView
         android:id="@+id/imageView"
