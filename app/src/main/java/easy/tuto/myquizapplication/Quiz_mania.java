@@ -2,7 +2,6 @@ package easy.tuto.myquizapplication;
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
-
 import androidx.appcompat.app.AppCompatActivity;
 
 public class Quiz_mania extends AppCompatActivity {
