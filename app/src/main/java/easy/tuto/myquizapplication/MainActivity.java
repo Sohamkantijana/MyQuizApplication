@@ -14,7 +14,6 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     TextView questionTextView;
     Button ansA, ansB, ansC, ansD;
     Button submitBtn;
-
     int score=0;
     int totalQuestion = QuestionAnswer.question.length;
     int currentQuestionIndex = 0;
