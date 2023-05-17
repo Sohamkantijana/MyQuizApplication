@@ -1,5 +1,4 @@
 package easy.tuto.myquizapplication;
-
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.app.AlertDialog;
