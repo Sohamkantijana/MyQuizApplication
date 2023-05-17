@@ -8,7 +8,7 @@ public class QuestionAnswer {
             "Where you are watching this video?",
             "Which company owns the Apple?",
             "Which of the following converts Java byte code into Dalvik byte code?",
-            "ADB stands for"
+            "ADB stands for "
     };
 
     public static String choices[][] = {
