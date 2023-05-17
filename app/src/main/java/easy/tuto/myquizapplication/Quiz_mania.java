@@ -6,8 +6,6 @@ import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
 
 public class Quiz_mania extends AppCompatActivity {
-
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
