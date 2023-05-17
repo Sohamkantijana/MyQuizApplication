@@ -8,7 +8,7 @@ public class QuestionAnswer {
             "Where you are watching this video?",
             "Which company owns the Apple?",
             "Which of the following converts Java byte code into Dalvik byte code?",
-            "ADB stands for "
+            "ADB stands for? "
     };
 
     public static String choices[][] = {
@@ -17,7 +17,7 @@ public class QuestionAnswer {
             {"Facebook","Whatsapp","Instagram","Youtube"},
             {"Google","Apple","Nokia","Samsung"},
             {"Dalvik converter","Dex compiler","Mobile interpretive compiler (MIC)","None of the above"},
-            {"Android debug bridge", "Android delete bridge", "Android destroy bridge", "None of the above"}
+            {"Android debug bridge", "Android delete bridge", "Android destroy bridge","None of the above"}
     };
 
     public static String correctAnswers[] = {
