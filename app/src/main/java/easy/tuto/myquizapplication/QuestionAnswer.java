@@ -9,6 +9,7 @@ public class QuestionAnswer {
             "Which company owns the Apple?",
             "Which of the following converts Java byte code into Dalvik byte code?",
             "ADB stands for? "
+             "Which of the following method is used to handle what happens after clicking a button?"
     };
 
     public static String choices[][] = {
@@ -18,6 +19,7 @@ public class QuestionAnswer {
             {"Google","Apple","Nokia","Samsung"},
             {"Dalvik converter","Dex compiler","Mobile interpretive compiler (MIC)","None of the above"},
             {"Android debug bridge", "Android delete bridge", "Android destroy bridge","None of the above"}
+            {"onClick","onCreate","onSelect","None of the above"}
     };
 
     public static String correctAnswers[] = {
@@ -27,6 +29,7 @@ public class QuestionAnswer {
             "Apple",
             "Dex compiler",
             "Android debug bridge"
+                "onclick"
     };
 
 }
